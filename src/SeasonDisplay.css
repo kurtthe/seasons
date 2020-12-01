@@ -42,3 +42,6 @@ color : #d8f4fa;
 .summer {
     background-color: #F3872F;
 }
+* {
+    position: absolute;
+}
